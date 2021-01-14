@@ -1,0 +1,92 @@
+.top-part{
+    background-color: cornsilk;
+}
+.logo-card{
+    background-color: cornsilk;
+    border: 0;
+    height: 50px;
+    width: 350px;
+}
+.image-card{
+    background-color: cornsilk;
+    border: 0;
+}
+.name-highlight{
+    color: darkgoldenrod;
+
+}
+.price-highlight{
+    color: gold;
+    font-weight: 700;
+}
+.name{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+.jacket{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.image-fit{
+    width: 100px;
+    height: 90px;
+    float: left; 
+    padding: 2px;
+}
+.image-fit2{
+    width: 100px;
+    height: 90px;
+    float: left;
+    padding: 2px;
+}
+.image-fit3{
+    width:100px;
+    height: 90px;
+    float: left;
+    padding: 2px;
+}
+.border{
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: fantasy;
+    
+
+}
+
+.image-section{
+    width: 90%;
+}
+.jacket-name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.button-part{
+    background-color: lightgreen;
+}
+.image-part{
+    box-shadow: lightslategray;
+    background-color: lightgrey;
+    height: 250px;
+    border-radius: 8px;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.footer-name{
+    text-align: center;
+    color: goldenrod;
+    font-family:fantasy;
+    font-size: 35px;
+    font-weight: 800;
+    background-color:lightgrey;
+    
+}
+.panda-slide{
+    background-color: cornsilk;
+}
+    
+
+
